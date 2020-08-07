@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello everyone 😄👋 !
+
+I am a smily Software Developer born and raised in Valencia, Spain 🇪🇸 but currently based in Berlin, Germany 🇩🇪. I feel enthusiastic about building software for Apple platforms, but always open and keen to work with other technologies.
+
+In my spare time, travelling the world and getting close to people from different cultures and backgrounds makes me feel full of energy. I also love practicing numerous sports, playing videogames and enjoying a cold beer surrounded by friends and family.
 
 <!--
 **TibiaZ/TibiaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
