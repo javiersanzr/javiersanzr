@@ -14,7 +14,7 @@
     </a>  
 </p>
 
-### Hello everyone 😄👋
+# Hello everyone 😄 👋
 
 I am a smily Software Developer born and raised in Valencia, Spain 🇪🇸 , but currently based in Berlin, Germany 🇩🇪 . I feel enthusiastic about building software for Apple platforms, but always open and keen to work with other technologies.
 
